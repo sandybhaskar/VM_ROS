@@ -1,2 +1,2 @@
 # VM_ROS
-Contains all the trial codes in ROS
+Contains all the practice codes in the VM machine pertaining to ROS as backup
